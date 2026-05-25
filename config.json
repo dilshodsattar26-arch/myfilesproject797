@@ -1,0 +1,8 @@
+{
+    "name": "authservice-service",
+    "version": "1.0.797",
+    "private": false,
+    "environment": "production",
+    "build_id": 830,
+    "allow_public_access": true
+}
